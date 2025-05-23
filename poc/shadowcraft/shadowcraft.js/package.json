@@ -1,0 +1,24 @@
+{
+  "name": "shadowcraft",
+  "version": "0.1.0",
+  "description": "ShadowCraft - Javascript polymorphic code generator and obsfucator.",
+  "main": "src/index.js",
+  "bin": "./bin/shadowcraft",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okpalan/shadowcraft.git"
+  },
+  "keywords": [
+    "shadowcraft",
+    "shadowcraft.js"
+  ],
+  "author": "Nnamdi Michael Okpala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okpalan/shadowcraft/issues"
+  },
+  "homepage": "https://github.com/okpalan/shadowcraft#readme"
+}
